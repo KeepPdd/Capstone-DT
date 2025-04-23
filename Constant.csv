@@ -1,0 +1,24 @@
+n,Algorithm,Time (s),Peak Mem (KB)
+10,constant,0.0024,1.87
+20,constant,0.0119,1.01
+30,constant,0.0325,1.01
+40,constant,0.0584,0.89
+50,constant,0.0922,0.93
+60,constant,0.1386,0.97
+70,constant,0.1904,1.01
+80,constant,0.2627,1.12
+90,constant,0.3181,1.15
+100,constant,0.408,1.25
+110,constant,0.4832,1.42
+120,constant,0.6159,1.4
+130,constant,0.7298,1.58
+140,constant,0.8073,1.56
+150,constant,1.0192,1.77
+160,constant,1.1719,1.75
+170,constant,1.3029,1.76
+180,constant,1.3535,1.96
+190,constant,1.4945,1.96
+200,constant,1.771,1.95
+250,constant,2.6161,2.51
+300,constant,3.9632,2.82
+350,constant,5.1134,3.16

@@ -1,0 +1,24 @@
+n,Algorithm,Time (s),Peak Mem (KB)
+10,incremental,0.0017,6.27
+20,incremental,0.0058,9.05
+30,incremental,0.0132,10.65
+40,incremental,0.0224,9.53
+50,incremental,0.0357,24.96
+60,incremental,0.0501,20.86
+70,incremental,0.069,25.85
+80,incremental,0.091,20.1
+90,incremental,0.1095,25.82
+100,incremental,0.1394,28.25
+110,incremental,0.1662,34.21
+120,incremental,0.2,28.62
+130,incremental,0.2407,34.99
+140,incremental,0.2618,28.87
+150,incremental,0.3146,33.62
+160,incremental,0.3831,33.23
+170,incremental,0.4246,61.44
+180,incremental,0.4379,65.15
+190,incremental,0.4956,82.66
+200,incremental,0.5918,75.59
+250,incremental,0.8200,81.61
+300,incremental,1.2157,82.20
+350,incremental,1.5901,86.89
