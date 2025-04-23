@@ -5,6 +5,8 @@ import sys
 import gc
 import numpy as np
 import tracemalloc
+from incremental import incremental_delaunay
+from constant import constant_workspace_delaunay
 from incremental import incremental_delaunay_dummy
 from constant import constant_workspace_delaunay_dummy
 
